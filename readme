@@ -1,0 +1,7 @@
+An Efficient Algorithm for Line Clipping in 2-D Computer Graphics.
+
+This interesting attempt origins from a easy but classic task in Computer Graphics: To clip lines with a rectangular window. In the class, I creatively introduced the idea of Hough space into this task, transforming the problem focusing on area and line into a problem focusing on line and point. Finally I successfully refined and implemented this idea.
+
+I also reproduced some well-known SOTA methods, such as Cohen-Sutherland Liang-Barsky's method, comparing with my algorithm. It shows that my algorithm got the best result.
+
+The slide is also attached.

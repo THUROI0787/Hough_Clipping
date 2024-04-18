@@ -5,3 +5,5 @@ This interesting attempt origins from an easy but classic task in Computer Graph
 I also reproduced some well-known SOTA methods, such as Cohen-Sutherland Liang-Barsky's method, comparing with my algorithm. It shows that my algorithm got the best result.
 
 The slide is also attached.
+
+One more thing: I think it's promising to use such ideas in related tasks in 3D vision...
